@@ -2,11 +2,11 @@
 
 namespace Inheritance
 {
-    class Program
+    class Animal
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+        
         }
     }
 }
